@@ -10,7 +10,7 @@ __I Am Auto CaptionBot Just Add In Channel and See Magic__
 
 __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇʟ ᴜsᴇ ᴍᴇ__
 
-😈 __ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ__ 👉 __@{}__
+😈 __ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ__ 👉 __@{@Stylish_Star2}__
 """    
 
       HELP_TEXT = """
