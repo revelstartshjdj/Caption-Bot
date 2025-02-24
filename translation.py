@@ -33,33 +33,33 @@ __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇ
       ABOUT_TEXT = """
 📕 **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
 
-__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/Avishkarpatil)__
+__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/RM_Botz)__
 __○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ __
 __○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ __
 __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
 __○ ᴠᴇʀsɪᴏɴ : 2.0.1__
-__○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
+__○ ᴄʀᴇᴀᴛᴏʀ :  @Stylish_Star2
  
-**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/Avishkarpatil)**
+**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/Stylish_Star2)**
 """
 
       MARKDOWN_TEXT = """
 🔰 <u>𝐀𝐛𝐨𝐮𝐭 𝐌𝐚𝐫𝐤𝐝𝐨𝐰𝐧</u>
 👉 <b>Bold text</b>
-🔸 <code>**Avishkar**</code>
+🔸 <code>**RM_Botz**</code>
 
 👉 <b>Italic text</b>
-🔹 <code>__Avishkat__</code> 
+🔹 <code>__RM_Botz__</code> 
 
 👉 <b>Code text</b>
-🔸 <code>`Avishkar`</code>   
+🔸 <code>`RM_Botz`</code>   
 
 👉 <b>Hyperlink text</b>
-🔹 <code>[hyperlink_text](https://avipatilweb.me)</code> 
+🔹 <code>[hyperlink_text](https://Stylish_Star2.me)</code> 
 
 〰〰〰〰〰〰〰〰〰〰
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/RM_Botz">© RM BOTS</a></b>
 """
 
 # Bot status display
@@ -72,7 +72,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/RM_Botz">© RM BOTS</a></b>
 """
 
 
